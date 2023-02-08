@@ -1,0 +1,19 @@
+.jumbotron {
+  background-color: #61dafb;
+  padding: 10px;
+}
+
+.header {
+  text-align: center;
+}
+
+.logo {
+  border-radius: 100px;
+  border: white solid 5px;
+}
+
+.about {
+  text-align: center;
+  color: black;
+  background-color: white;
+}
